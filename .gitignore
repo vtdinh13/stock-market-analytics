@@ -1,0 +1,11 @@
+# OS system files
+.DS_Store
+
+# Python
+__pycache__/
+venv/
+.venv/
+
+# Logs and temp
+*.log
+*.tmp
