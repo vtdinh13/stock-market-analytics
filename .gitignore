@@ -9,3 +9,6 @@ venv/
 # Logs and temp
 *.log
 *.tmp
+
+# Files
+convert_plots.ipynb
